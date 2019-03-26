@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 	/* ==========================  Define variables ========================== */
 
@@ -11,7 +11,7 @@
 	#Success message
 	define('__SUCCESS_MESSAGE__', "Your message has been sent. Thank you!");
 
-	#Error message 
+	#Error message
 	define('__ERROR_MESSAGE__', "Error, your message hasn't been sent");
 
 	#Messege when one or more fields are empty
